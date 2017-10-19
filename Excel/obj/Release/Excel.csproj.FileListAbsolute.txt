@@ -1,0 +1,10 @@
+D:\Tools\LinqToExcel\Excel\Excel\bin\Release\Excel.dll
+D:\Tools\LinqToExcel\Excel\Excel\bin\Release\EPPlus.dll
+D:\Tools\LinqToExcel\Excel\Excel\bin\Release\LinqToExcel.dll
+D:\Tools\LinqToExcel\Excel\Excel\bin\Release\Remotion.Data.Linq.dll
+D:\Tools\LinqToExcel\Excel\Excel\bin\Release\Remotion.dll
+D:\Tools\LinqToExcel\Excel\Excel\bin\Release\Remotion.Interfaces.dll
+D:\Tools\LinqToExcel\Excel\Excel\bin\Release\EPPlus.xml
+D:\Tools\LinqToExcel\Excel\Excel\bin\Release\LinqToExcel.xml
+D:\Tools\LinqToExcel\Excel\Excel\obj\Release\Excel.csproj.CoreCompileInputs.cache
+D:\Tools\LinqToExcel\Excel\Excel\obj\Release\Excel.dll

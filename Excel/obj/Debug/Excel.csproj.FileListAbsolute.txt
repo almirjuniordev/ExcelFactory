@@ -1,0 +1,13 @@
+D:\Tools\LinqToExcel\Excel\Excel\bin\Debug\Excel.dll
+D:\Tools\LinqToExcel\Excel\Excel\bin\Debug\Excel.pdb
+D:\Tools\LinqToExcel\Excel\Excel\bin\Debug\EPPlus.dll
+D:\Tools\LinqToExcel\Excel\Excel\bin\Debug\LinqToExcel.dll
+D:\Tools\LinqToExcel\Excel\Excel\bin\Debug\Remotion.Data.Linq.dll
+D:\Tools\LinqToExcel\Excel\Excel\bin\Debug\Remotion.dll
+D:\Tools\LinqToExcel\Excel\Excel\bin\Debug\Remotion.Interfaces.dll
+D:\Tools\LinqToExcel\Excel\Excel\bin\Debug\EPPlus.xml
+D:\Tools\LinqToExcel\Excel\Excel\bin\Debug\LinqToExcel.xml
+D:\Tools\LinqToExcel\Excel\Excel\obj\Debug\Excel.csprojResolveAssemblyReference.cache
+D:\Tools\LinqToExcel\Excel\Excel\obj\Debug\Excel.csproj.CoreCompileInputs.cache
+D:\Tools\LinqToExcel\Excel\Excel\obj\Debug\Excel.dll
+D:\Tools\LinqToExcel\Excel\Excel\obj\Debug\Excel.pdb
